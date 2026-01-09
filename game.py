@@ -27,4 +27,4 @@ while running:
 pygame.quit()
 print("hello")
 print("hello")
-x
+xlk.n
